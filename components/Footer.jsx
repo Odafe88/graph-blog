@@ -5,7 +5,7 @@ import { FaInstagram, FaTwitter, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
     return (
-        <div className="text-lg font-medium text-white w-full  h-auto px-4 py-2 text-center">
+        <div className="text-lg font-medium text-gray-700 w-full  h-auto px-4 py-2 text-center">
             <div className="flex justify-center items-center px-4 py-4">
                 <div className="px-2 cursor-pointer" >
                     <Link href="https://instagram.com/odafetoearth">

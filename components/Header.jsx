@@ -20,7 +20,7 @@ const Header = () => {
             <div className="border-b w-full inline-block border-purple-400 py-4 lg:py-8">
                 <div className="text-center md:float-left block">
                     <Link href="/">
-                        <span className="cursor-pointer font-bold text-2xl text-white lg:4xl">
+                        <span className="cursor-pointer font-bold text-2xl text-purple-700 lg:4xl">
                             GraphBlog
                         </span>
                     </Link>
